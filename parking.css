@@ -1,0 +1,16 @@
+.header {
+    height: 100px;
+    color: aliceblue;
+    display: flex;
+}
+.header img {
+    margin:1%
+}
+.header h1{
+    margin: auto;
+    padding: auto;
+}
+#container{
+    color: aliceblue;
+}
+  
